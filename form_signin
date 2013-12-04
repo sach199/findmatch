@@ -1,0 +1,27 @@
+<html>
+<head>
+	<title> My Page </title>
+</head>
+
+<body  background= "sky-blue-background-hd-desktop-wallpaper.jpg">
+<b>	
+	<h1 align = "center"> Welcome to My Page </h1>
+	<form action = "login_validation.php" method = "post">
+		Name : <input name = "username" type = "text"><br><br>
+		Password : <input name = "password" type = "password"> <br><br>
+		<input type = "submit" value = "Submit"><br>
+
+	</form>
+
+Not a member ?</b>
+<form action = "ReDir.php" method = "post">
+		
+		<input type = "submit" value = "Sign Up"><br>
+
+	</form>
+
+
+
+</body>
+</html>
+	
